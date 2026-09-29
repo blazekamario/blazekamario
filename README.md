@@ -1,5 +1,5 @@
 ## Hi there 👋
-#👋 Hi, I’m @blazekamario
+###👋 Hi, I’m @blazekamario
 #👀 I’m interested in everything...
 #🌱 I’m currently learning git, C++,...
 #💞️ I’m looking to collaborate on ☆☆☆☆☆
